@@ -65,12 +65,27 @@ Select a specific year, the dashboard will update to show the gap between water 
 - All analysis is for academic purposes and may not reflect official government assessments.
 
 
-## Dashboard Preview
+## Power BI Dashboard Preview
 
-![Water Analytics Dashboard](images/dashboard-overview.png)
+### Dashboard 1
+![Dashboard 1](images/Dashboard%20Overview%201.png)
+
+### Dashboard 2
+![Dashboard 2](images/Dashboard%20Overview%202.png)
+
+### Dashboard 3
+![Dashboard 3](images/Dashboard%20Overview%203.png)
+
+### Dashboard 4
+![Dashboard 4](images/Dashboard%20Overview%204.png)
+
+### Dashboard 5
+![Dashboard 5](images/Dashboard%20Overview%205.png)
 
 ## Project Files
 
 - `Dashboard.pbix` — Interactive Power BI dashboard
 - Python notebook — Data preparation and analysis
 - `images/` — Dashboard screenshots
+
+
